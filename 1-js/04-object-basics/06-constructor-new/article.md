@@ -1,8 +1,7 @@
 # Constructor, operator "new"
 
-The regular `{...}` syntax allows to create one object. But often we need to create many similar objects, like multiple users or menu items and so on.
-
-That can be done using constructor functions and the `"new"` operator.
+با استفاده از سینکس `{...}` می توان یک object ساخت. اما اغلب اوقات ما نیاز پیدا می کنیم که object های شبیه به هم بسازیم، همانند چندین کاربر یا موارد موجود در یک منو و مانند این ها.
+این کار می تواند با استفاده از constructor functions و عملگر `"new"` انجام شود.
 
 ## Constructor function
 
